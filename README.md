@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 
 ## General info
-This project is a simple to do app and consist of some useful functionalities.
+This project is a simple to do app and consists of some useful functionalities.
 	
 ## Technologies
 Project is created with:
