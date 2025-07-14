@@ -12,7 +12,7 @@ master.resizable(False, False)
 
 tasks = list()
 
-patterns = ImageTk.PhotoImage(Image.open("img/27927.jpg"))
+patterns = ImageTk.PhotoImage(Image.open("img/background.jpg"))
 background_image = Label(master, image=patterns)
 background_image.place(relheight=1, relwidth=1)
 
