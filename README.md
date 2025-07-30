@@ -41,5 +41,5 @@ pip install Pillow
 
 ### Run the App
 ```bash
-python millionaire.py
+python todolistapp.py
 ```
