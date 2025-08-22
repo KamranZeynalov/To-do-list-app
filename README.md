@@ -1,6 +1,6 @@
 # ✅ To Do List App (Tkinter)
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.6-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Desktop-lightgrey.svg)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Archived-red.svg)
