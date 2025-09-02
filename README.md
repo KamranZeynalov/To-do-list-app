@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Desktop-lightgrey.svg)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
 ![Dependency](https://img.shields.io/badge/Dependency-Pillow-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Archived-red.svg)
+![Status](https://img.shields.io/badge/Status-Legacy-red.svg)
 
 A simple but feature-rich desktop **To Do list app** built using **Python 3.6** and **Tkinter** GUI toolkit.  
 You can add tasks, sort them, delete them, save them — all within a minimal and colorful UI 🌈
